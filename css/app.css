@@ -61,3 +61,18 @@ h1, h2, h3, h4, h5{
     font-size: 25px;
     color: black;
 }
+
+.bell-hero-text{
+    background-color: #231f20;
+    padding: 20px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.map-location{
+    margin-top: 10px;
+}
+
+.bell-maps{
+    padding-right: 0px;
+}
